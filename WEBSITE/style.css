@@ -1,0 +1,57 @@
+body{
+	
+
+}
+ 
+	
+#header1{
+	flex:2;
+	text-align:center;
+	
+}
+#tour{
+	
+	
+	text-align:center;
+	box-shadow: 2px 2px 20px #d4d4d4;
+	font-size:100%;
+	font-family:Trebuchet MS;
+}
+ 
+#titlehead{
+	
+	color:WHITE;
+	font-size; 350%;
+}
+#whole{
+	background-color:WHITE;
+	background-image: concert.jpg;
+	font:helvetica;
+}
+
+#h1{
+	
+	color:white;
+	font-size:250%;
+
+}
+#p{
+	font-weight: 500%;
+	color:white;
+	font-size:200%;
+}
+
+	
+.centered{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+	
+	
+}
+
+
+
+
+
